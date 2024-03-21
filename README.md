@@ -53,8 +53,8 @@ Registration and login  Backend using  Springboot
     b. create new package listener
        create j RegistrationCompleteEventListener
         1:18:00
-7. install mysql locally  at https://dev.mysql.com/downloads/mysql/
-        install  mysqlworkbench
+7. install mysql locally  at https://dev.mysql.com/downloads/mysql/ for local test not using h2
+        install  mysqlworkbench for local test
         in query:
             CREATE DATABASE registration_db;
             use registeration_db;
