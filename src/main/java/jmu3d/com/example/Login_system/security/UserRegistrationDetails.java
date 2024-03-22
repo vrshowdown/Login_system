@@ -1,3 +1,8 @@
+/*JMU3D
+UserRegistrationDetails.java
+Implements Spring Security's UserDetails interface, providing necessary information about a user for authentication and authorization purposes.
+-Jibreel Utley
+*/
 package jmu3d.com.example.Login_system.security;
 
 import jmu3d.com.example.Login_system.user.User;

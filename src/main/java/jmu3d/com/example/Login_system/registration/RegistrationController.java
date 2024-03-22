@@ -1,5 +1,10 @@
 package jmu3d.com.example.Login_system.registration;
-
+//JMU3D
+/* RegistrationController
+ * A REST controller that handles user registration requests. 
+ * It registers a user, publishes a RegistrationCompleteEvent, and handles email verification requests.
+ * -Jibreel Utley
+ */
 import jakarta.servlet.http.HttpServletRequest;
 import jmu3d.com.example.Login_system.event.RegistrationCompleteEvent;
 import jmu3d.com.example.Login_system.registration.token.VerificationToken;
