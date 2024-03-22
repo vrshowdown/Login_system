@@ -1,5 +1,10 @@
 package jmu3d.com.example.Login_system.event.listener;
-
+/* JMU3D
+   RegistrationCompleteEventListener
+ * Listens for RegistrationCompleteEvent and handles it by generating a verification token, saving it, 
+ * and sending an email to the newly registered user with a link to verify their email address.
+ * -Jibreel
+ */
 import jmu3d.com.example.Login_system.event.RegistrationCompleteEvent;
 import jmu3d.com.example.Login_system.user.User;
 import jmu3d.com.example.Login_system.user.UserService;

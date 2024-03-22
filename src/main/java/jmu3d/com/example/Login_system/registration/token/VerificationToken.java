@@ -1,3 +1,9 @@
+/*JMU3D
+VerificationToken
+An entity class that represents a verification token associated with a user, used for email verification purposes. 
+It includes token expiration logic.
+-Jibreel Utley
+*/
 package jmu3d.com.example.Login_system.registration.token;
 
 import jakarta.persistence.*;

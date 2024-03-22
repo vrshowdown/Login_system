@@ -1,3 +1,9 @@
+/*JMU3D
+UserService.java
+Implements IUserService, providing logic for user registration, 
+email verification token handling, and user retrieval.
+-Jibreel Utley
+*/
 package jmu3d.com.example.Login_system.user;
 
 import jmu3d.com.example.Login_system.exception.UserAlreadyExistsException;

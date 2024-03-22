@@ -1,3 +1,8 @@
+/*JMU3D
+User
+An entity class that represents a user in the application, including their personal information, credentials, role, and enabled status.
+-Jibreel Utley
+*/
 package jmu3d.com.example.Login_system.user;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
